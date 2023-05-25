@@ -1,0 +1,10 @@
+bom: hw/sch_pcb/BATPOWER04.kicad_pcb
+color: white
+eda:
+  pcb: hw/sch_pcb/BATPOWER04.kicad_pcb
+  type: kicad
+gerbers: hw/cam_profi/
+site: https://github.com/mlab-modules/BATPOWER04
+summary: High-effeciency (over 90%) stepdown converter based on LM3485 PFET Buck controller.
+  Input vortage 4.5 V - 16V; Output voltage can be selected by jumper in fixed values
+  of 3,3V, 5V or custom voltage by external resistor or trimmer.

@@ -1,0 +1,31 @@
+description: High-effeciency (over 90%) stepdown converter based on LM3485 PFET Buck
+  controller. Input vortage 4.5 V - 16V; Output voltage can be selected by jumper
+  in fixed values of 3,3V, 5V or custom voltage by external resistor or trimmer.
+github_branch: BATPOWER04C
+github_branches:
+- BATPOWER04A
+- BATPOWER04B
+- BATPOWER04C
+github_repo: BATPOWER04
+github_url: https://github.com/mlab-modules/BATPOWER04
+homepage: false
+image: doc/img/BATPOWER04C_top_big.jpg
+images:
+- doc/img/BATPOWER04C_top_big.jpg
+- doc/img/BATPOWER04C_top_small.jpg
+- doc/img/batpower_top_2.jpg
+- cad/4x4MLAB_frame.png
+- doc/img/BATPOWER04C_QRcode.png
+issues: 0
+mark: 50
+tags:
+- battery-power
+- buck
+- mlab
+- power-supply
+- step-down
+- batpower
+- high-effeciency
+- lm3485
+- buck-converter
+title: BATPOWER04
