@@ -11,9 +11,9 @@ github_url: https://github.com/mlab-modules/BATPOWER04
 homepage: false
 image: doc/img/BATPOWER04C_top_big.jpg
 images:
+- doc/img/batpower_top_2.jpg
 - doc/img/BATPOWER04C_top_big.jpg
 - doc/img/BATPOWER04C_top_small.jpg
-- doc/img/batpower_top_2.jpg
 - cad/4x4MLAB_frame.png
 - doc/img/BATPOWER04C_QRcode.png
 issues: 0
