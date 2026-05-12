@@ -20,8 +20,17 @@ images:
 - doc/img/BATPOWER04C_top_big.jpg
 - cad/4x4MLAB_frame.png
 - doc/img/BATPOWER04C_QRcode.png
+- doc/gen/img/BATPOWER04-top.png
+- doc/gen/img/BATPOWER04-bottom.png
+- hw/cam_profi/assembly/BATPOWER04-assembly_page_01.svg
+- hw/cam_profi/assembly/BATPOWER04-assembly_page_02.svg
+- doc/gen/BATPOWER04-schematic.svg
+- doc/gen/img/BATPOWER04-bottom.svg
+- doc/gen/img/BATPOWER04-top.svg
 issues: 0
 mark: 50
+mod_ibom: hw/cam_profi/BATPOWER04-ibom.html
+mod_scheme: doc/gen/BATPOWER04-schematic.pdf
 status: 2
 tags:
 - battery-power
@@ -35,4 +44,4 @@ tags:
 - buck-converter
 - mlab-module
 title: BATPOWER04
-updated: '2026-05-12T11:12:01.666279+00:00'
+updated: '2026-05-12T11:14:21.220740+00:00'
