@@ -1,24 +1,23 @@
-description: High-efficiency step-down converter based on the LM3485 PFET buck
-  controller. Input voltage range is 4.5 V to 16 V. Output voltage can be selected
-  by jumpers as 3.3 V or 5 V, or configured as a custom voltage using an external
-  resistor or trimmer.
+description: High-efficiency step-down converter based on the LM3485 PFET  buck controller.
+  Input voltage range is 4.5 V to 16 V. Output voltage can be  selected by jumpers
+  as 3.3 V or 5 V, or configured as a custom voltage using  an external resistor.
 github_branch: BATPOWER04C
 github_branches:
 - BATPOWER04A
 - BATPOWER04B
 - BATPOWER04C
-github_description: High-efficiency step-down converter based on the LM3485 PFET
-  buck controller. Input voltage range is 4.5 V to 16 V. Output voltage can be
-  selected by jumpers as 3.3 V or 5 V, or configured as a custom voltage using
-  an external resistor or trimmer.
+github_description: High-efficiency step-down converter based on the LM3485 PFET  buck
+  controller. Input voltage range is 4.5 V to 16 V. Output voltage can be  selected
+  by jumpers as 3.3 V or 5 V, or configured as a custom voltage using  an external
+  resistor.
 github_repo: BATPOWER04
 github_url: https://github.com/mlab-modules/BATPOWER04
 homepage: false
 image_title: doc/img/BATPOWER04C_top_big.jpg
 images:
+- doc/img/batpower_top_2.jpg
 - doc/img/BATPOWER04C_top_small.jpg
 - doc/img/BATPOWER04C_top_big.jpg
-- doc/img/batpower_top_2.jpg
 - cad/4x4MLAB_frame.png
 - doc/img/BATPOWER04C_QRcode.png
 issues: 0
@@ -31,9 +30,9 @@ tags:
 - power-supply
 - step-down
 - batpower
-- high-efficiency
+- high-effeciency
 - lm3485
 - buck-converter
 - mlab-module
 title: BATPOWER04
-updated: '2023-09-17T11:47:21.466714+00:00'
+updated: '2026-05-12T11:12:01.666279+00:00'
