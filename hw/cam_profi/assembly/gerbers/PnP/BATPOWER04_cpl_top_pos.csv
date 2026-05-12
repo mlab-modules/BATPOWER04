@@ -1,0 +1,15 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"G***","LOGO","QR_code",31.9024,15.4686,90.0000,top
+"J1","JUMP_4X2","Pin_Header_Straight_2x04",14.6050,35.6870,0.0000,top
+"J2","CONN1_1","WAGO256",7.8105,28.0035,0.0000,top
+"J3","CONN1_1","WAGO256",32.7660,29.5910,180.0000,top
+"J4","JUMP2_2x1","Pin_Header_Straight_1x02",22.1615,7.3025,90.0000,top
+"J5","JUMP2_2x1","Pin_Header_Straight_1x02",19.6215,7.3025,90.0000,top
+"J6","JUMP2_2x1","Pin_Header_Straight_1x02",17.0815,7.3025,90.0000,top
+"J7","Vout+","WAGO256",32.7660,24.5745,180.0000,top
+"J8","Vout-","WAGO256",7.8105,22.9870,0.0000,top
+"J9","JUMP_4X2","Pin_Header_Straight_2x04",26.0350,36.1870,180.0000,top
+"P1","_","MountingHole_3mm",35.5600,5.0800,0.0000,top
+"P2","_","MountingHole_3mm",5.0800,35.5600,0.0000,top
+"P3","_","MountingHole_3mm",5.0800,5.0800,0.0000,top
+"P4","_","MountingHole_3mm",35.5600,35.5600,0.0000,top

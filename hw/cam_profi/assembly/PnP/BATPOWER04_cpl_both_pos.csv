@@ -1,0 +1,32 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"C1","47uF","TantalC_SizeC_Reflow",13.9700,15.8750,90.0000,bottom
+"C2","100nF","SMD-0805",12.7000,9.6520,-90.0000,bottom
+"C3","1nF","SMD-0805",6.3500,17.2720,0.0000,bottom
+"C4","100pF","SMD-0805",25.7810,6.5452,180.0000,bottom
+"C5","470pF","SMD-0805",10.9855,5.6515,-90.0000,bottom
+"C6","100uF","TantalC_SizeD_Reflow",25.6540,27.8130,90.0000,bottom
+"C7","100uF","TantalC_SizeD_Reflow",20.7010,27.9400,90.0000,bottom
+"D1","M4","Diode-SMA_Standard",15.6210,28.9560,90.0000,bottom
+"D2","15MQ040N","Diode-SMA_Standard",19.8120,20.7010,0.0000,bottom
+"G***","LOGO","QR_code",31.9024,15.4686,90.0000,top
+"J1","JUMP_4X2","Pin_Header_Straight_2x04",14.6050,35.6870,0.0000,top
+"J2","CONN1_1","WAGO256",7.8105,28.0035,0.0000,top
+"J3","CONN1_1","WAGO256",32.7660,29.5910,180.0000,top
+"J4","JUMP2_2x1","Pin_Header_Straight_1x02",22.1615,7.3025,90.0000,top
+"J5","JUMP2_2x1","Pin_Header_Straight_1x02",19.6215,7.3025,90.0000,top
+"J6","JUMP2_2x1","Pin_Header_Straight_1x02",17.0815,7.3025,90.0000,top
+"J7","Vout+","WAGO256",32.7660,24.5745,180.0000,top
+"J8","Vout-","WAGO256",7.8105,22.9870,0.0000,top
+"J9","JUMP_4X2","Pin_Header_Straight_2x04",26.0350,36.1870,180.0000,top
+"L1","22uH DE1207-22","DE1205-10",30.9880,16.1210,180.0000,bottom
+"P1","_","MountingHole_3mm",35.5600,5.0800,0.0000,top
+"P2","_","MountingHole_3mm",5.0800,35.5600,0.0000,top
+"P3","_","MountingHole_3mm",5.0800,5.0800,0.0000,top
+"P4","_","MountingHole_3mm",35.5600,35.5600,0.0000,top
+"Q1","IRF7416","SO-8",20.0660,15.7480,90.0000,bottom
+"R1","22k","SMD-0805",6.3500,19.4310,0.0000,bottom
+"R2","20k","SMD-0805",19.6850,2.9210,-90.0000,bottom
+"R3","33k","R_0805",25.7302,8.1534,180.0000,bottom
+"R4","11k","SMD-0805",17.1450,2.9210,-90.0000,bottom
+"R5","-","SMD-0805",22.3520,2.9210,-90.0000,bottom
+"U1","LM3485","MSOP-8_3x3mm_Pitch0.65mm",9.3980,12.8270,90.0000,bottom
